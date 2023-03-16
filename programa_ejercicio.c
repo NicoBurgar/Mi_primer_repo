@@ -97,6 +97,7 @@ void main()
 
     int *f = &largo_facultad;
     printf("\n\nLa constante largo_facultad esta en la celda %i", *f);
+    printf("Hola mundo");
 
     return;
 }
